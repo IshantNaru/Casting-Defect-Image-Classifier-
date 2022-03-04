@@ -1,0 +1,3 @@
+
+Set-ExecutionPolicy Unrestricted -Scope Process
+.\myenv2\Scripts\activate.ps1
